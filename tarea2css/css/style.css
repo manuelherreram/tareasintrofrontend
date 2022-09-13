@@ -1,0 +1,20 @@
+body{
+  background-color: lightgrey;
+}
+beer-picture{
+  border-radius: 50%;
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+}
+
+.title{
+  margin-top: 50%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+}
+.sub-title{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
